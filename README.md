@@ -13,9 +13,10 @@ python detect.py --weights best.pt --source 0 --nosave --exist-ok
 ## Requirements
 
 ### Hardware Recommendations
-- **GPU**: NVIDA RTX 3070 or better
+- **GPU**: NVIDIA RTX 3070 or better
 - **RAM**: 32GB+
 - **CPU**: Modern multi-core processor
+- **Camera**: Normal Camera
 
 ### Software Requirements
 - **OS**: Windows 11
