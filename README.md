@@ -1,7 +1,7 @@
 # Bird_detection_yolov5
 This repository leverages YOLOv5 to perform fast and real-time bird detection. It utilizes a pre-trained YOLOv5s model to achieve efficient and accurate inference.
 
-##Quick Start
+## Quick Start
 ```bash
 # 1. Install dependencies
 pip install -r requirements.txt
@@ -10,7 +10,7 @@ pip install -r requirements.txt
 python detect.py --weights best.pt --source 0 --nosave --exist-ok
 ```
 
-##Requirements
+## Requirements
 
 ### Hardware Recommendations
 - **GPU**: NVIDA RTX 3070 or better
